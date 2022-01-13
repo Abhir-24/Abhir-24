@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full Stack Web Developer and Machine Learning Enthusiast.
+- 🤔 &nbsp; Full Stack Web Developer and Blockchain Enthusiast.
 - 🎓 &nbsp; Learning Data Structures and Algorithms.
 - 💼 &nbsp; Always ready to work on different and creative ideas.
 - 📫 How to reach me:
